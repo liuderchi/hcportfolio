@@ -18,6 +18,12 @@
   top: -200px;
   left: 80px;
 }
+#graphic_descript:hover {
+  margin-top: -20px;
+}
+#graphic_descript {
+  margin-top: 0px;
+}
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
   font-family: sans-serif;
